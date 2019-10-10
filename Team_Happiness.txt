@@ -1,0 +1,15 @@
+TEAM HAPPINESS 
+
+Happiness_cities_weather_2018_clean.csv - the comprehensive dataset we created, cleaned version
+
+Final Presentation.ppt - final presentation 
+
+Jupyter Notebooks: 
+	PullingAPI_CleaningData - taking the original data source and hitting the API's to make the master. Cleaning it to delete non-continental USA & the rows with NANs
+	JLT_UV_Index_Visualizations - UV Index scatterplots 
+	MAM_Visualizations - notebook to pull the top 25 and bottom 25 cities and run visualizations 
+	BWS Final Code - cloud cover scatterplots, correlation analysis, and heat maps 
+	Average_Daylight_Godwin - Average daylight findings and scatterplots 
+
+WriteUp - final writeup 
+
